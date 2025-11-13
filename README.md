@@ -89,9 +89,6 @@ http://localhost:8080
 
 ---
 
-# 🎥 Demo Video  
-(Add your demo link here)
-
 ---
 
 # 👨‍💻 Author  
